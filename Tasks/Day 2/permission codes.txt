@@ -1,0 +1,13 @@
+#	Permission	rwx
+0	none	000
+1	execute only	001
+2	write only	010
+3	write and execute	011
+4	read only	100
+5	read and execute	101
+6	read and write	110
+7	read, write, and execute	111
+
+
+
+chmod 7-owner    2-grp     0-users  <file>
