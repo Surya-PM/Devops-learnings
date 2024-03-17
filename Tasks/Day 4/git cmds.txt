@@ -1,0 +1,9 @@
+git init
+git add .
+git commit -m "first commit"
+git remote add origin https://github.com/Surya-PM/local-to-github.git
+git push -u origin main
+
+
+new githb repo :
+https://github.com/Surya-PM/local-to-github
